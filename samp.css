@@ -1,0 +1,218 @@
+body{
+	background: #F4F6F5;
+	color: #555;
+	font-family: Calibri
+}
+
+div#design{
+	width:  2.9368575624082234vw;
+    height:  2.202643171806167vw;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+    right:5.873715124816447vw;
+    top: 2.9368575624082234vw;
+}
+
+div#a{
+    background: #FF6D70;
+    width:100%;
+    height: 0.44052863436123346vw;
+    border-radius: 0.7342143906020558vw;
+}
+div#b{
+    background: yellow ;
+    width: 75%;
+    height: 0.44052863436123346vw;
+    border-radius: 0.7342143906020558vw;
+}
+div#c{
+    background: lime;
+    width: 40%;
+    height: 0.44052863436123346vw;
+    border-radius: 0.7342143906020558vw;
+}
+
+div#Logo{
+	background: #E4E4E4;
+    top:2.202643171806167vw;
+    left:2.9368575624082234vw;
+}
+
+img#logo{
+	width:14.684287812041116vw;
+    height:13.215859030837004vw;
+    background-position: center;
+    background-color: #FFFFFF;
+    position: absolute;
+    top:3.671071953010279vw;
+    left:3.671071953010279vw;
+}
+
+div#Title{
+	font-family: Calibri;
+	font-size:  7.320644216691069vw;
+	font-weight: 550;
+	filter:opacity(10%);
+	position: absolute;
+	top: 7.342143906020558vw;
+	left: 21.292217327459618vw;
+}
+
+div#sub-title{
+	font-family:Calibri;
+	color: black;
+	position: absolute;
+	font-size: 2.9282576866764276vw;
+	font-weight: 500;
+	top:20.558002936857562vw;
+    left:4.405286343612334vw;
+}
+
+div#design1{
+	width:4.405286343612334vw;
+    height: 0.7342143906020558vw;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    left:4.038179148311307vw;
+    top:27.90014684287812vw;
+}
+
+div#a1{
+	background: #FE6D70;
+    width:80%;
+    height: 0.44052863436123346vw;
+    border-radius:  0.7342143906020558vw;
+}
+
+div#b1{
+	background: yellow;
+    width: 30%;
+    height: 0.44052863436123346vw;
+    border-radius: 0.7342143906020558vw;
+}
+
+div#c1{
+	background: lime;
+    width: 30%;
+    height: 0.44052863436123346vw;
+    border-radius: 0.7342143906020558vw;
+}
+
+div#def{
+	font-family: Calibri;
+	color: grey;
+	position: absolute;
+	font-size:  1.3177159590043923vw;
+	font-weight: 500;
+	letter-spacing: 0.07342143906020558vw;
+	line-height: 1.5;
+	top:31.20411160058737vw;
+	left: 4.405286343612334vw;
+}
+
+div#img{
+	position: absolute;
+	top:17.621145374449338vw;
+	left:44.052863436123346vw;
+}
+
+div#email{
+	position: relative;
+	top: 34.87518355359765vw;
+	left:3.671071953010279vw;
+}
+
+input[type=email] {
+  width: 20%;
+  padding: 1.1747430249632893vw 1.4684287812041117vw;
+  margin: 0.5873715124816447vw 0;
+  display: inline-block;
+  border: 0.07342143906020558vw solid #ccc;
+  border-radius: 0.2936857562408223vw;
+  box-sizing: border-box;
+  right: 0.7342143906020558vw;
+}
+
+input[type=submit] {
+  width: 10%;
+  background-color: #FE6D70;	
+  color: white;
+  padding: 1.1747430249632893vw 2.202643171806167vw;
+  margin: 0.7342143906020558vw 0;
+  border: none;
+  border-radius: 0.2936857562408223vw;
+  cursor: pointer;
+}
+
+input[type=submit]:hover{
+	background-color: green;
+}
+
+div#head{
+	font-family: Calibri:;
+	font-size: 1.8301610541727673vw;
+	color: black;
+	top:47.72393538913363vw;
+	left:5.139500734214391vw;
+	font-weight: 500;
+	position: absolute;
+}
+	
+div#res{
+	font-size: 1.2445095168374818vw;
+	font-weight: 500;
+	letter-spacing: 0.03671071953010279vw;
+	font-family: Calibri;
+	line-height: 1.8;
+	position: absolute;
+	top:51.395007342143906vw;
+	left:3.671071953010279vw;
+	color: grey;
+}
+
+div#box{
+	position: absolute;
+    background: #fff;
+    border-radius: 0.44052863436123346vw;
+    width:32%;
+    height:9.544787077826726vw;
+    margin-left: 55.06607929515418vw;
+    margin-top: 44.052863436123346vw;
+
+}
+
+div#skype{
+	top:51.4684287812041117vw;
+	left:44.052863436123346vw;
+	border-bottom: 0.14684287812041116vw solid #F4F6F5;
+}
+
+div#text{
+	font-size:  1.7686072218128224vw;
+	position: absolute;
+	align-content: center;
+	margin-top: -3.303964757709251vw;
+	margin-left: 6.607929515418502vw; 
+	font-family: Calibri;
+	color: grey;
+}	
+
+img#icon{
+	margin-top:1.1013215859030836vw;
+	margin-left: 2.202643171806167vw;
+	position: relative;
+	width:2.9368575624082234vw;
+	height:2.9368575624082234vw;
+	background-size: contain;
+}
+
+div#mail{
+	top:44.052863436123346vw;
+	left:44.052863436123346vw;
+}
+
